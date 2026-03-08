@@ -26,3 +26,7 @@
 ## Use Case диаграмма
 
 ![Use Case](use_case.png)
+
+## Блок-схема алгоритма
+
+![Block Scheme](block_scheme.png)
