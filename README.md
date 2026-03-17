@@ -86,5 +86,8 @@ Password Checker — это приложение, написанное на яз
 ![Block Scheme](block_scheme.png)
 
 ---
+# Запуск программы
 
+```bash
+python password_checker.py
 
